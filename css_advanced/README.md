@@ -1,3 +1,7 @@
         CSS Advanced
 
+        This project is following the HTML, advanced project - please make sure all tasks of this previous one are fully done.
+
+For this project, you will focus on the CSS and the style of the page.
+
 ![Another webpage](https://s3.amazonaws.com/alu-intranet.hbtn.io/uploads/medias/2021/4/1f4cd63ecc3a8c03b0f4309b74aca179e225aabf.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUZTW2RLVB%2F20230126%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230126T103400Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=e8bb8ab31ff18809f32e673354eaec170594904c258b5aac5725ad75ead2160a)
